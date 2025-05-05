@@ -18,7 +18,7 @@
 
 ---
 
-### 💻 Tecnologias & Ferramentas
+ 💻 Tecnologias & Ferramentas
 
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=flat&logo=springboot)
@@ -30,7 +30,7 @@
 
 ---
 
-### 📈 GitHub Stats
+📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WeversonDev&show_icons=true&theme=tokyonight" height="180em"/>
@@ -39,7 +39,7 @@
 
 ---
 
-### 🧠 Sobre mim
+🧠 Sobre mim
 
 - 🔭 Trabalhando em projetos Java + Microsserviços
 - 🧑‍🏫 Professor apaixonado por ensinar tecnologia
@@ -47,7 +47,7 @@
 
 ---
 
-### ✨ Projeto em destaque
+ ✨ Projeto em destaque
 
 ```bash
 Sistema Distribuído de Pedidos
