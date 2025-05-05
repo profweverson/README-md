@@ -49,8 +49,8 @@ Olá! 👋 Sou um desenvolvedor fullstack com foco em **Java**, **Spring Boot**,
 ## 📫 Como me encontrar
 
 - 🌐 [Meu portfólio](https://seu-site.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- 📧 Email: seuemail@dominio.com
+- 💼 [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
+- 📧 Email:weverson.medeiros@uniceplac.edu.br
 
 ---
 
